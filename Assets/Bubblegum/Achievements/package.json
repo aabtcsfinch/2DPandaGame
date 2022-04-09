@@ -1,0 +1,12 @@
+{
+  "name": "com.jaffajam.bubblegum.achievements",
+  "displayName": "Bubblegum.Achievements",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "The Achievement module is designed as a drag and drop system of integrating achievements into any Unity games.",
+  "keywords": [ "achievement", "rewards", "challenge" ],
+  "category": "Player",
+  "dependencies": {
+    "com.jaffajam.bubblegum": "https://bitbucket.org/jaffajam/bubblegum.git#develop"
+  }
+}

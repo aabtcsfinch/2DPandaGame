@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.jaffajam.bubblegum": {
+      "version": "https://bitbucket.org/jaffajam/bubblegum.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.textmeshpro": "2.0.1"
+      },
+      "hash": "4959d96157f94c2adb7f4b21df48aacec0565d9a"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -13,7 +22,7 @@
       "dependencies": {}
     },
     "com.unity.ads": {
-      "version": "3.7.5",
+      "version": "4.1.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -38,7 +47,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
-      "version": "1.15.13",
+      "version": "1.15.15",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -47,7 +56,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.connect.share": {
-      "version": "4.1.1",
+      "version": "4.2.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {

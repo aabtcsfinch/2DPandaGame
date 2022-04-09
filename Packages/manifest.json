@@ -1,12 +1,13 @@
 {
   "dependencies": {
+    "com.jaffajam.bubblegum": "https://bitbucket.org/jaffajam/bubblegum.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
-    "com.unity.ads": "3.7.5",
+    "com.unity.ads": "4.1.0",
     "com.unity.analytics": "3.6.12",
     "com.unity.cinemachine": "2.6.11",
-    "com.unity.collab-proxy": "1.15.13",
-    "com.unity.connect.share": "4.1.1",
+    "com.unity.collab-proxy": "1.15.15",
+    "com.unity.connect.share": "4.2.3",
     "com.unity.ide.rider": "2.0.7",
     "com.unity.ide.visualstudio": "2.0.14",
     "com.unity.ide.vscode": "1.2.5",

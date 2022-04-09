@@ -1,0 +1,16 @@
+{
+    "name": "Achievements",
+    "references": [
+        "GUID:23dc6e59ec9b83f439e0098f1c75d05e",
+        "GUID:2305b49a69f38a84296eb846999436e2",
+        "GUID:ab526a7dbf8aec041afd264650e4300b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
